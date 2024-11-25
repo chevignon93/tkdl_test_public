@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Sen Cal Kapimi",
+    "english_name": "You Knock on My Door",
+    "slug": "sen-cal-kapimi",
+    "active": 0
+  },
+  {
+    "id": 2,
+    "name": "Yali Capkini",
+    "english_name": "The Kingfisher",
+    "slug": "yali-capkini",
+    "active": 1
+  },
+  {
+    "id": 3,
+    "name": "Annem Ankara",
+    "english_name": "My Mother Ankara",
+    "slug": "annem-ankara",
+    "active": 1
+  },
+  {
+    "id": 4,
+    "name": "Ask Evlilik Bosanma",
+    "english_name": "Love, Marriage, Divorce",
+    "slug": "ask-evlilik-bosanma",
+    "active": 1
+  },
+  {
+    "id": 5,
+    "name": "Bir Yemin Ettim",
+    "english_name": "I Made An Oath",
+    "slug": "bir-yemin-ettim",
+    "active": 1
+  },
+  {
+    "id": 6,
+    "name": "Sahipsizler",
+    "english_name": "The Ownerless",
+    "slug": "sahipsizler",
+    "active": 1
+  },
+  {
+    "id": 7,
+    "name": "Uzak Sehir",
+    "english_name": "Far City",
+    "slug": "uzak-sehir",
+    "active": 1
+  },
+  {
+    "id": 8,
+    "name": "Kalpazan",
+    "english_name": "Counterfeiter",
+    "slug": "kalpazan",
+    "active": 1
+  },
+  {
+    "id": 9,
+    "name": "Gizli Bahce",
+    "english_name": "Hidden Garden",
+    "slug": "gizli-bahce",
+    "active": 0
+  },
+  {
+    "id": 10,
+    "name": "Karadut",
+    "english_name": "Black Mulberry",
+    "slug": "karadut",
+    "active": 0
+  }
+]
