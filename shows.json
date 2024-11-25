@@ -68,5 +68,2210 @@
     "english_name": "Black Mulberry",
     "slug": "karadut",
     "active": 0
+  },
+  {
+    "id": 11,
+    "name": "Guzel Asklar Diyari",
+    "english_name": "Land of Beautiful Loves",
+    "slug": "guzel-asklar-diyari",
+    "active": 0
+  },
+  {
+    "id": 12,
+    "name": "Deha",
+    "english_name": "Genius",
+    "slug": "deha",
+    "active": 1
+  },
+  {
+    "id": 13,
+    "name": "Kor Nokta",
+    "english_name": "Blind Spot",
+    "slug": "kor-nokta",
+    "active": 0
+  },
+  {
+    "id": 14,
+    "name": "Siyah Kalp",
+    "english_name": "Black Heart",
+    "slug": "siyah-kalp",
+    "active": 1
+  },
+  {
+    "id": 15,
+    "name": "Leyla",
+    "english_name": "Leyla: Life Love Justice",
+    "slug": "leyla",
+    "active": 1
+  },
+  {
+    "id": 16,
+    "name": "Bizi Birlestiren Hayat",
+    "english_name": "The Life That Unites Us",
+    "slug": "bizi-birlestiren-hayat",
+    "active": 1
+  },
+  {
+    "id": 17,
+    "name": "Kotu Kan",
+    "english_name": "Bad Blood",
+    "slug": "kotu-kan",
+    "active": 0
+  },
+  {
+    "id": 18,
+    "name": "Bir Gece Masali",
+    "english_name": "A Night Story",
+    "slug": "bir-gece-masali",
+    "active": 1
+  },
+  {
+    "id": 19,
+    "name": "Kanatsiz Kuslar",
+    "english_name": "Broken Wings",
+    "slug": "kanatsiz-kuslar",
+    "active": 0
+  },
+  {
+    "id": 20,
+    "name": "Medcezir",
+    "english_name": "Tide",
+    "slug": "medcezir",
+    "active": 0
+  },
+  {
+    "id": 21,
+    "name": "Sila",
+    "english_name": "Sila",
+    "slug": "sila",
+    "active": 0
+  },
+  {
+    "id": 22,
+    "name": "Iliski Durumu Karisik",
+    "english_name": "Relationship Status: Mixed",
+    "slug": "iliski-durumu-karisik",
+    "active": 0
+  },
+  {
+    "id": 23,
+    "name": "Gumus",
+    "english_name": "Gumus",
+    "slug": "gumus",
+    "active": 0
+  },
+  {
+    "id": 24,
+    "name": "Ask ve Ceza",
+    "english_name": "Love and Punishment",
+    "slug": "ask-ve-ceza",
+    "active": 0
+  },
+  {
+    "id": 25,
+    "name": "Yeni Gelin",
+    "english_name": "New Bride",
+    "slug": "yeni-gelin",
+    "active": 0
+  },
+  {
+    "id": 26,
+    "name": "Merhamet",
+    "english_name": "Mercy",
+    "slug": "merhamet",
+    "active": 0
+  },
+  {
+    "id": 27,
+    "name": "Asi",
+    "english_name": "Rebel",
+    "slug": "asi",
+    "active": 0
+  },
+  {
+    "id": 28,
+    "name": "Bu Sehir Arkandan Gelecek",
+    "english_name": "Heart of the City",
+    "slug": "bu-sehir-arkandan-gelecek",
+    "active": 0
+  },
+  {
+    "id": 29,
+    "name": "Kadin",
+    "english_name": "Woman",
+    "slug": "kadin",
+    "active": 0
+  },
+  {
+    "id": 30,
+    "name": "Guzel Koylu",
+    "english_name": "Beautiful Villager",
+    "slug": "guzel-koylu",
+    "active": 0
+  },
+  {
+    "id": 31,
+    "name": "Goc Zamani",
+    "english_name": "Time of Departure",
+    "slug": "goc-zamani",
+    "active": 0
+  },
+  {
+    "id": 32,
+    "name": "Bir Bulut Olsam",
+    "english_name": "Beyond the Clouds",
+    "slug": "bir-bulut-olsam",
+    "active": 0
+  },
+  {
+    "id": 33,
+    "name": "Calikusu",
+    "english_name": "Lovebird",
+    "slug": "calikusu",
+    "active": 0
+  },
+  {
+    "id": 34,
+    "name": "Gonul Isleri",
+    "english_name": "Affairs of the Heart",
+    "slug": "gonul-isleri",
+    "active": 0
+  },
+  {
+    "id": 35,
+    "name": "Kurt Seyit ve Sura",
+    "english_name": "Kurt Seyit and Shura",
+    "slug": "kurt-seyit-ve-sura",
+    "active": 0
+  },
+  {
+    "id": 36,
+    "name": "Ayazin Sonu Gunes",
+    "english_name": "The End of Frost is the Sun",
+    "slug": "ayazin-sonu-gunes",
+    "active": 0
+  },
+  {
+    "id": 37,
+    "name": "Zamanin Kapilari",
+    "english_name": "Doors of Destiny",
+    "slug": "zamanin-kapilari",
+    "active": 1
+  },
+  {
+    "id": 38,
+    "name": "Yalan",
+    "english_name": "The Lie",
+    "slug": "yalan",
+    "active": 1
+  },
+  {
+    "id": 39,
+    "name": "Yaban Cicekleri",
+    "english_name": "Wild Flowers",
+    "slug": "yaban-cicekleri",
+    "active": 0
+  },
+  {
+    "id": 40,
+    "name": "Yan Oda",
+    "english_name": "Next Room",
+    "slug": "yan-oda",
+    "active": 0
+  },
+  {
+    "id": 41,
+    "name": "Korkma Ben Yanindayim",
+    "english_name": "Don't Worry, I'm With You",
+    "slug": "korkma-ben-yanindayim",
+    "active": 0
+  },
+  {
+    "id": 42,
+    "name": "Tas Kagit Makas",
+    "english_name": "Rock Paper Scissors",
+    "slug": "tas-kagit-makas",
+    "active": 0
+  },
+  {
+    "id": 43,
+    "name": "Mehmed Fetihler Sultani",
+    "english_name": "Mehmed: The Conqueror Sultan",
+    "slug": "mehmed-fetihler-sultani",
+    "active": 1
+  },
+  {
+    "id": 44,
+    "name": "Kara Agac Destani",
+    "english_name": "The Legend of the Black Tree",
+    "slug": "kara-agac-destani",
+    "active": 1
+  },
+  {
+    "id": 45,
+    "name": "Kul Masali",
+    "english_name": "Tale of Ashes",
+    "slug": "kul-masali",
+    "active": 0
+  },
+  {
+    "id": 46,
+    "name": "Senden Once",
+    "english_name": "Before You",
+    "slug": "senden-once",
+    "active": 1
+  },
+  {
+    "id": 47,
+    "name": "Bahar",
+    "english_name": "Bahar",
+    "slug": "bahar",
+    "active": 1
+  },
+  {
+    "id": 48,
+    "name": "Gelin",
+    "english_name": "The Bride",
+    "slug": "gelin",
+    "active": 1
+  },
+  {
+    "id": 49,
+    "name": "Bir Sevdadir",
+    "english_name": "It is a Love",
+    "slug": "bir-sevdadir",
+    "active": 0
+  },
+  {
+    "id": 50,
+    "name": "Kopuk",
+    "english_name": "Detached",
+    "slug": "kopuk",
+    "active": 0
+  },
+  {
+    "id": 51,
+    "name": "Inci Taneleri",
+    "english_name": "Pearl Beads",
+    "slug": "inci-taneleri",
+    "active": 1
+  },
+  {
+    "id": 52,
+    "name": "Gaddar",
+    "english_name": "The Cruel",
+    "slug": "gaddar",
+    "active": 0
+  },
+  {
+    "id": 53,
+    "name": "Aska Dusman",
+    "english_name": "Enemy of Love",
+    "slug": "aska-dusman",
+    "active": 0
+  },
+  {
+    "id": 54,
+    "name": "Ruzgarli Tepe",
+    "english_name": "Windy Hill",
+    "slug": "ruzgarli-tepe",
+    "active": 1
+  },
+  {
+    "id": 55,
+    "name": "Yildizlar Bana Uzak",
+    "english_name": "The Stars Are Far From Me",
+    "slug": "yildizlar-bana-uzak",
+    "active": 0
+  },
+  {
+    "id": 56,
+    "name": "Arak",
+    "english_name": "Kara",
+    "slug": "arak",
+    "active": 0
+  },
+  {
+    "id": 57,
+    "name": "Kizil Goncalar",
+    "english_name": "Red Buds",
+    "slug": "kizil-goncalar",
+    "active": 1
+  },
+  {
+    "id": 58,
+    "name": "Sandik Kokusu",
+    "english_name": "Chest Smell",
+    "slug": "sandik-kokusu",
+    "active": 1
+  },
+  {
+    "id": 59,
+    "name": "Ne Gemiler Yaktim",
+    "english_name": "What Ships I Have Burned",
+    "slug": "ne-gemiler-yaktim",
+    "active": 0
+  },
+  {
+    "id": 60,
+    "name": "Altin Kafes",
+    "english_name": "Golden Cage",
+    "slug": "altin-kafes",
+    "active": 1
+  },
+  {
+    "id": 61,
+    "name": "Kudus Fatihi Selahaddin Eyyubi",
+    "english_name": "Saladin Ayyubi: Conqueror of Jerusalem",
+    "slug": "kudus-fatihi-selahaddin-eyyubi",
+    "active": 1
+  },
+  {
+    "id": 62,
+    "name": "Kod Adi Kirlangic",
+    "english_name": "Code Name Swallow",
+    "slug": "kod-adi-kirlangic",
+    "active": 1
+  },
+  {
+    "id": 63,
+    "name": "Bir Derdim Var",
+    "english_name": "I Have a Problem",
+    "slug": "bir-derdim-var",
+    "active": 0
+  },
+  {
+    "id": 64,
+    "name": "Sakla Beni",
+    "english_name": "Hide Me",
+    "slug": "sakla-beni",
+    "active": 0
+  },
+  {
+    "id": 65,
+    "name": "Sahane Hayatim",
+    "english_name": "My Wonderful Life",
+    "slug": "sahane-hayatim",
+    "active": 0
+  },
+  {
+    "id": 66,
+    "name": "Kader Baglari",
+    "english_name": "Ties of Destiny",
+    "slug": "kader-baglari",
+    "active": 0
+  },
+  {
+    "id": 67,
+    "name": "Kirli Sepeti",
+    "english_name": "Laundry Box",
+    "slug": "kirli-sepeti",
+    "active": 0
+  },
+  {
+    "id": 68,
+    "name": "Hudutsuz Sevda",
+    "english_name": "Boundless Love",
+    "slug": "hudutsuz-sevda",
+    "active": 1
+  },
+  {
+    "id": 69,
+    "name": "Yabani",
+    "english_name": "Wild",
+    "slug": "yabani",
+    "active": 1
+  },
+  {
+    "id": 70,
+    "name": "Bambaska Biri",
+    "english_name": "Another Person",
+    "slug": "bambaska-biri",
+    "active": 0
+  },
+  {
+    "id": 71,
+    "name": "Dilek Tasi",
+    "english_name": "Wishing Stone",
+    "slug": "dilek-tasi",
+    "active": 0
+  },
+  {
+    "id": 72,
+    "name": "Safir",
+    "english_name": "Sapphire",
+    "slug": "safir",
+    "active": 0
+  },
+  {
+    "id": 73,
+    "name": "Ruhun Duymaz",
+    "english_name": "Your Spirit Doesn't Hear",
+    "slug": "ruhun-duymaz",
+    "active": 0
+  },
+  {
+    "id": 74,
+    "name": "Yaz Sarkisi",
+    "english_name": "Summer Song",
+    "slug": "yaz-sarkisi",
+    "active": 0
+  },
+  {
+    "id": 75,
+    "name": "Hayatimin Nesesi",
+    "english_name": "Joy of My Life",
+    "slug": "hayatimin-nesesi",
+    "active": 0
+  },
+  {
+    "id": 76,
+    "name": "Ya Cok Seversen",
+    "english_name": "What If You Love Too Much",
+    "slug": "ya-cok-seversen",
+    "active": 0
+  },
+  {
+    "id": 77,
+    "name": "Donence",
+    "english_name": "The Tropical",
+    "slug": "donence",
+    "active": 0
+  },
+  {
+    "id": 78,
+    "name": "Kendi Dusen Aglamaz",
+    "english_name": "Her Fall Doesn't Cry",
+    "slug": "kendi-dusen-aglamaz",
+    "active": 0
+  },
+  {
+    "id": 79,
+    "name": "Benim Guzel Ailem",
+    "english_name": "My Good Family",
+    "slug": "benim-guzel-ailem",
+    "active": 0
+  },
+  {
+    "id": 80,
+    "name": "Uvey Anne",
+    "english_name": "Stepmother",
+    "slug": "uvey-anne",
+    "active": 0
+  },
+  {
+    "id": 81,
+    "name": "Vermem Seni Ellere",
+    "english_name": "I will not give you to the hands",
+    "slug": "vermem-seni-ellere",
+    "active": 0
+  },
+  {
+    "id": 82,
+    "name": "Kismet",
+    "english_name": "The Fate",
+    "slug": "kismet",
+    "active": 0
+  },
+  {
+    "id": 83,
+    "name": "Maviye Surgun",
+    "english_name": "Exile to Blue",
+    "slug": "maviye-surgun",
+    "active": 0
+  },
+  {
+    "id": 84,
+    "name": "Tetikcinin Oglu",
+    "english_name": "The Shooter's Son",
+    "slug": "tetikcinin-oglu",
+    "active": 1
+  },
+  {
+    "id": 85,
+    "name": "Gulcemal",
+    "english_name": "Gulcemal",
+    "slug": "gulcemal",
+    "active": 0
+  },
+  {
+    "id": 86,
+    "name": "Yuz Yillik Mucize",
+    "english_name": "One Hundred Years of Miracles",
+    "slug": "yuz-yillik-mucize",
+    "active": 0
+  },
+  {
+    "id": 87,
+    "name": "Esaret",
+    "english_name": "Redemption",
+    "slug": "esaret",
+    "active": 1
+  },
+  {
+    "id": 88,
+    "name": "Kralice",
+    "english_name": "Queen",
+    "slug": "kralice",
+    "active": 0
+  },
+  {
+    "id": 89,
+    "name": "Fedakar",
+    "english_name": "Endless",
+    "slug": "fedakar",
+    "active": 0
+  },
+  {
+    "id": 90,
+    "name": "Kan Cicekleri",
+    "english_name": "Blood Flowers",
+    "slug": "kan-cicekleri",
+    "active": 1
+  },
+  {
+    "id": 91,
+    "name": "Aile",
+    "english_name": "Family",
+    "slug": "aile",
+    "active": 0
+  },
+  {
+    "id": 92,
+    "name": "Adim Farah",
+    "english_name": "My Name is Farah",
+    "slug": "adim-farah",
+    "active": 0
+  },
+  {
+    "id": 93,
+    "name": "Veda Mektubu",
+    "english_name": "Farewell Letter",
+    "slug": "veda-mektubu",
+    "active": 0
+  },
+  {
+    "id": 94,
+    "name": "Ego",
+    "english_name": "You Can't Trust Men",
+    "slug": "ego",
+    "active": 0
+  },
+  {
+    "id": 95,
+    "name": "Dokuz Oguz",
+    "english_name": "9 Tribes",
+    "slug": "dokuz-oguz",
+    "active": 1
+  },
+  {
+    "id": 96,
+    "name": "Al Sancak",
+    "english_name": "Red Flag",
+    "slug": "al-sancak",
+    "active": 1
+  },
+  {
+    "id": 97,
+    "name": "Ates Kuslari",
+    "english_name": "Firebirds",
+    "slug": "ates-kuslari",
+    "active": 0
+  },
+  {
+    "id": 98,
+    "name": "Tacsiz Prenses",
+    "english_name": "The Untamed Princess",
+    "slug": "tacsiz-prenses",
+    "active": 0
+  },
+  {
+    "id": 99,
+    "name": "Omer",
+    "english_name": "Omer",
+    "slug": "omer",
+    "active": 0
+  },
+  {
+    "id": 100,
+    "name": "Muhtesem Yuzyil",
+    "english_name": "The Magnificent Century",
+    "slug": "muhtesem-yuzyil",
+    "active": 0
+  },
+  {
+    "id": 101,
+    "name": "Menekse ile Halil",
+    "english_name": "Menekse and Halil",
+    "slug": "menekse-ile-halil",
+    "active": 0
+  },
+  {
+    "id": 102,
+    "name": "Sifirinci Gun",
+    "english_name": "Day Zero",
+    "slug": "sifirinci-gun",
+    "active": 0
+  },
+  {
+    "id": 103,
+    "name": "Barbaros Hayreddin Sultanin Fermani",
+    "english_name": "Barbaros Hayreddin Sultan's Edict",
+    "slug": "barbaros-hayreddin-sultanin-fermani",
+    "active": 0
+  },
+  {
+    "id": 104,
+    "name": "Sipahi",
+    "english_name": "The Sipahis",
+    "slug": "sipahi",
+    "active": 0
+  },
+  {
+    "id": 105,
+    "name": "Cop Adam",
+    "english_name": "Stickman",
+    "slug": "cop-adam",
+    "active": 0
+  },
+  {
+    "id": 106,
+    "name": "Duy Beni",
+    "english_name": "Hear me",
+    "slug": "duy-beni",
+    "active": 0
+  },
+  {
+    "id": 107,
+    "name": "Guzel Gunler",
+    "english_name": "Nice Days",
+    "slug": "guzel-gunler",
+    "active": 0
+  },
+  {
+    "id": 108,
+    "name": "Yurek Cikmazi",
+    "english_name": "Heartache",
+    "slug": "yurek-cikmazi",
+    "active": 0
+  },
+  {
+    "id": 109,
+    "name": "Kizilcik Serbeti",
+    "english_name": "Cranberry Sorbet",
+    "slug": "kizilcik-serbeti",
+    "active": 1
+  },
+  {
+    "id": 110,
+    "name": "Darmaduman",
+    "english_name": "Cluttered",
+    "slug": "darmaduman",
+    "active": 0
+  },
+  {
+    "id": 111,
+    "name": "Tuzak",
+    "english_name": "Trap",
+    "slug": "tuzak",
+    "active": 0
+  },
+  {
+    "id": 112,
+    "name": "Hayat Bugun",
+    "english_name": "Life Today",
+    "slug": "hayat-bugun",
+    "active": 0
+  },
+  {
+    "id": 113,
+    "name": "Yesilcam",
+    "english_name": "The Green Pine",
+    "slug": "yesilcam",
+    "active": 0
+  },
+  {
+    "id": 114,
+    "name": "Ben Bu Cihana Sigmazam",
+    "english_name": "I can't fit into this World",
+    "slug": "ben-bu-cihana-sigmazam",
+    "active": 0
+  },
+  {
+    "id": 115,
+    "name": "Gecenin Ucunda",
+    "english_name": "At the End of the Night",
+    "slug": "gecenin-ucunda",
+    "active": 0
+  },
+  {
+    "id": 116,
+    "name": "Bir Peri Masali",
+    "english_name": "A Fairy Tale",
+    "slug": "bir-peri-masali",
+    "active": 0
+  },
+  {
+    "id": 117,
+    "name": "Sadece Arkadasiz",
+    "english_name": "We are just friends",
+    "slug": "sadece-arkadasiz",
+    "active": 1
+  },
+  {
+    "id": 118,
+    "name": "Aldatmak",
+    "english_name": "To Betray",
+    "slug": "aldatmak",
+    "active": 0
+  },
+  {
+    "id": 119,
+    "name": "O Kiz",
+    "english_name": "That Girl",
+    "slug": "o-kiz",
+    "active": 0
+  },
+  {
+    "id": 120,
+    "name": "Senden Daha Guzel",
+    "english_name": "More Beautiful Than You",
+    "slug": "senden-daha-guzel",
+    "active": 0
+  },
+  {
+    "id": 121,
+    "name": "Bir Kucuk Gun Isigi",
+    "english_name": "A Little Daylight",
+    "slug": "bir-kucuk-gun-isigi",
+    "active": 0
+  },
+  {
+    "id": 122,
+    "name": "Kusursuz Kiraci",
+    "english_name": "The Perfect Tenant",
+    "slug": "kusursuz-kiraci",
+    "active": 0
+  },
+  {
+    "id": 123,
+    "name": "Ah Nerede",
+    "english_name": "Oh Where",
+    "slug": "ah-nerede",
+    "active": 0
+  },
+  {
+    "id": 124,
+    "name": "Gelsin Hayat Bildigi Gibi",
+    "english_name": "Let life come as it knows",
+    "slug": "gelsin-hayat-bildigi-gibi",
+    "active": 0
+  },
+  {
+    "id": 125,
+    "name": "Seni Kalbime Sakladim",
+    "english_name": "I hid you in my heart",
+    "slug": "seni-kalbime-sakladim",
+    "active": 0
+  },
+  {
+    "id": 126,
+    "name": "Tozluyaka",
+    "english_name": "Dusty Collar",
+    "slug": "tozluyaka",
+    "active": 0
+  },
+  {
+    "id": 127,
+    "name": "Cukur",
+    "english_name": "The Pit",
+    "slug": "cukur",
+    "active": 0
+  },
+  {
+    "id": 128,
+    "name": "Balkan Ninnisi",
+    "english_name": "Balkan Lullaby",
+    "slug": "balkan-ninnisi",
+    "active": 0
+  },
+  {
+    "id": 129,
+    "name": "Icimizdeki Ates",
+    "english_name": "The Fire Within Us",
+    "slug": "icimizdeki-ates",
+    "active": 1
+  },
+  {
+    "id": 130,
+    "name": "Sevmek Zamani",
+    "english_name": "Time to Love",
+    "slug": "sevmek-zamani",
+    "active": 0
+  },
+  {
+    "id": 131,
+    "name": "Gul Masali",
+    "english_name": "Tale of Rose",
+    "slug": "gul-masali",
+    "active": 0
+  },
+  {
+    "id": 132,
+    "name": "Gizli Sakli",
+    "english_name": "Secretly",
+    "slug": "gizli-sakli",
+    "active": 0
+  },
+  {
+    "id": 133,
+    "name": "Kaderimin Oyunu",
+    "english_name": "The Game of My Destiny",
+    "slug": "kaderimin-oyunu",
+    "active": 0
+  },
+  {
+    "id": 134,
+    "name": "Seversin",
+    "english_name": "You Love",
+    "slug": "seversin",
+    "active": 0
+  },
+  {
+    "id": 135,
+    "name": "Ask Mantik Intikam",
+    "english_name": "Love Logic Revenge",
+    "slug": "ask-mantik-intikam",
+    "active": 0
+  },
+  {
+    "id": 136,
+    "name": "Iyilik",
+    "english_name": "Goodness",
+    "slug": "iyilik",
+    "active": 0
+  },
+  {
+    "id": 137,
+    "name": "Annenin Sirridir Cocuk",
+    "english_name": "Mother's Secret Children",
+    "slug": "annenin-sirridir-cocuk",
+    "active": 0
+  },
+  {
+    "id": 138,
+    "name": "Hakim",
+    "english_name": "Judge",
+    "slug": "hakim",
+    "active": 1
+  },
+  {
+    "id": 139,
+    "name": "Kasaba Doktoru",
+    "english_name": "Town Doctor",
+    "slug": "kasaba-doktoru",
+    "active": 0
+  },
+  {
+    "id": 140,
+    "name": "Gulumse Kaderine",
+    "english_name": "Smile at your Destiny",
+    "slug": "gulumse-kaderine",
+    "active": 0
+  },
+  {
+    "id": 141,
+    "name": "Kardeslerim",
+    "english_name": "My Brothers",
+    "slug": "kardeslerim",
+    "active": 0
+  },
+  {
+    "id": 142,
+    "name": "Adi Sevgi",
+    "english_name": "Common Love",
+    "slug": "adi-sevgi",
+    "active": 0
+  },
+  {
+    "id": 143,
+    "name": "Kara Tahta",
+    "english_name": "Blackboard",
+    "slug": "kara-tahta",
+    "active": 0
+  },
+  {
+    "id": 144,
+    "name": "Kurulus Osman",
+    "english_name": "Osman The Founder",
+    "slug": "kurulus-osman",
+    "active": 1
+  },
+  {
+    "id": 145,
+    "name": "Son Nefesime Kadar",
+    "english_name": "Until My Last Breath",
+    "slug": "son-nefesime-kadar",
+    "active": 1
+  },
+  {
+    "id": 146,
+    "name": "Uc Kiz Kardes",
+    "english_name": "Three Sisters",
+    "slug": "uc-kiz-kardes",
+    "active": 0
+  },
+  {
+    "id": 147,
+    "name": "Hayaller Ve Hayatlar",
+    "english_name": "Dreams and Lives",
+    "slug": "hayaller-ve-hayatlar",
+    "active": 1
+  },
+  {
+    "id": 148,
+    "name": "Erkek Severse",
+    "english_name": "If Men Love",
+    "slug": "erkek-severse",
+    "active": 0
+  },
+  {
+    "id": 149,
+    "name": "Baba",
+    "english_name": "Father",
+    "slug": "baba",
+    "active": 0
+  },
+  {
+    "id": 150,
+    "name": "Oglum",
+    "english_name": "My Son",
+    "slug": "oglum",
+    "active": 0
+  },
+  {
+    "id": 151,
+    "name": "Yalniz Kurt",
+    "english_name": "Lone Wolf",
+    "slug": "yalniz-kurt",
+    "active": 0
+  },
+  {
+    "id": 152,
+    "name": "Bir Ask Hikayesi",
+    "english_name": "A Love Story",
+    "slug": "bir-ask-hikayesi",
+    "active": 0
+  },
+  {
+    "id": 153,
+    "name": "Yargi",
+    "english_name": "The Judgement",
+    "slug": "yargi",
+    "active": 0
+  },
+  {
+    "id": 154,
+    "name": "Teskilat",
+    "english_name": "The Order",
+    "slug": "teskilat",
+    "active": 1
+  },
+  {
+    "id": 155,
+    "name": "Sadakatsiz",
+    "english_name": "Unfaithful",
+    "slug": "sadakatsiz",
+    "active": 0
+  },
+  {
+    "id": 156,
+    "name": "Uc Kurus",
+    "english_name": "Three Kurus",
+    "slug": "uc-kurus",
+    "active": 0
+  },
+  {
+    "id": 157,
+    "name": "Annemizi Saklarken",
+    "english_name": "Hiding Our Mother",
+    "slug": "annemizi-saklarken",
+    "active": 0
+  },
+  {
+    "id": 158,
+    "name": "Kanunsuz Topraklar",
+    "english_name": "Lawless Lands",
+    "slug": "kanunsuz-topraklar",
+    "active": 0
+  },
+  {
+    "id": 159,
+    "name": "Destan",
+    "english_name": "The Princess Warrior",
+    "slug": "destan",
+    "active": 0
+  },
+  {
+    "id": 160,
+    "name": "Camdaki Kiz",
+    "english_name": "Girl in the Glass",
+    "slug": "camdaki-kiz",
+    "active": 0
+  },
+  {
+    "id": 161,
+    "name": "Emanet",
+    "english_name": "Legacy",
+    "slug": "emanet",
+    "active": 1
+  },
+  {
+    "id": 162,
+    "name": "Aziz",
+    "english_name": "Aziz",
+    "slug": "aziz",
+    "active": 0
+  },
+  {
+    "id": 163,
+    "name": "Yasak Elma",
+    "english_name": "Forbidden Apple",
+    "slug": "yasak-elma",
+    "active": 0
+  },
+  {
+    "id": 164,
+    "name": "Alparslan Buyuk Selcuklu",
+    "english_name": "Alparslan: Great Seljuks",
+    "slug": "alparslan-buyuk-selcuklu",
+    "active": 0
+  },
+  {
+    "id": 165,
+    "name": "Bir Zamanlar Cukurova",
+    "english_name": "Once Upon a Time in Cukurova",
+    "slug": "bir-zamanlar-cukurova",
+    "active": 0
+  },
+  {
+    "id": 166,
+    "name": "Sakli",
+    "english_name": "Hidden",
+    "slug": "sakli",
+    "active": 1
+  },
+  {
+    "id": 167,
+    "name": "Mahkum",
+    "english_name": "The Prisoner",
+    "slug": "mahkum",
+    "active": 0
+  },
+  {
+    "id": 168,
+    "name": "Aski Memnu",
+    "english_name": "Forbidden Love",
+    "slug": "aski-memnu",
+    "active": 0
+  },
+  {
+    "id": 169,
+    "name": "Asla Vazgecmem",
+    "english_name": "Never Give Up",
+    "slug": "asla-vazgecmem",
+    "active": 0
+  },
+  {
+    "id": 170,
+    "name": "Misafir",
+    "english_name": "Guest",
+    "slug": "misafir",
+    "active": 0
+  },
+  {
+    "id": 171,
+    "name": "Elbet Bir Gun",
+    "english_name": "Sure One Day",
+    "slug": "elbet-bir-gun",
+    "active": 0
+  },
+  {
+    "id": 172,
+    "name": "Sana Soz",
+    "english_name": "Promise to You",
+    "slug": "sana-soz",
+    "active": 0
+  },
+  {
+    "id": 173,
+    "name": "Benim Hayatim",
+    "english_name": "My Life",
+    "slug": "benim-hayatim",
+    "active": 0
+  },
+  {
+    "id": 174,
+    "name": "Elkizi",
+    "english_name": "The Stranger's Daughter",
+    "slug": "elkizi",
+    "active": 0
+  },
+  {
+    "id": 175,
+    "name": "Baht Oyunu",
+    "english_name": "Luck Game",
+    "slug": "baht-oyunu",
+    "active": 0
+  },
+  {
+    "id": 176,
+    "name": "Ada Masali",
+    "english_name": "Island Tale",
+    "slug": "ada-masali",
+    "active": 0
+  },
+  {
+    "id": 177,
+    "name": "Yalancilar ve Mumlari",
+    "english_name": "Liars and Candles",
+    "slug": "yalancilar-ve-mumlari",
+    "active": 0
+  },
+  {
+    "id": 178,
+    "name": "Evlilik Hakkinda Her Sey",
+    "english_name": "All About Marriage",
+    "slug": "evlilik-hakkinda-her-sey",
+    "active": 0
+  },
+  {
+    "id": 179,
+    "name": "Yalanci",
+    "english_name": "The Liar",
+    "slug": "yalanci",
+    "active": 0
+  },
+  {
+    "id": 180,
+    "name": "Barbaroslar",
+    "english_name": "Barbaros: Sword of the Mediterranean",
+    "slug": "barbaroslar",
+    "active": 0
+  },
+  {
+    "id": 181,
+    "name": "Icimizden Biri",
+    "english_name": "One of Us",
+    "slug": "icimizden-biri",
+    "active": 0
+  },
+  {
+    "id": 182,
+    "name": "Uzak Sehrin Masali",
+    "english_name": "Tale of the Far City",
+    "slug": "uzak-sehrin-masali",
+    "active": 0
+  },
+  {
+    "id": 183,
+    "name": "Ikimizin Sirri",
+    "english_name": "Our Secret",
+    "slug": "ikimizin-sirri",
+    "active": 0
+  },
+  {
+    "id": 184,
+    "name": "Cam Tavanlar",
+    "english_name": "Glass Ceilings",
+    "slug": "cam-tavanlar",
+    "active": 0
+  },
+  {
+    "id": 185,
+    "name": "Son Yaz",
+    "english_name": "Last Summer",
+    "slug": "son-yaz",
+    "active": 0
+  },
+  {
+    "id": 186,
+    "name": "Kalp Yarasi",
+    "english_name": "Heart Wound",
+    "slug": "kalp-yarasi",
+    "active": 0
+  },
+  {
+    "id": 187,
+    "name": "Cilek Kokusu",
+    "english_name": "Strawberry Smell",
+    "slug": "cilek-kokusu",
+    "active": 0
+  },
+  {
+    "id": 188,
+    "name": "Masumlar Apartmani",
+    "english_name": "Innocent Apartments",
+    "slug": "masumlar-apartmani",
+    "active": 0
+  },
+  {
+    "id": 189,
+    "name": "Kazara Ask",
+    "english_name": "Accidental Love",
+    "slug": "kazara-ask",
+    "active": 0
+  },
+  {
+    "id": 190,
+    "name": "Askin Tarifi",
+    "english_name": "Recipe for Love",
+    "slug": "askin-tarifi",
+    "active": 0
+  },
+  {
+    "id": 191,
+    "name": "Bas Belasi",
+    "english_name": "Trouble Maker",
+    "slug": "bas-belasi",
+    "active": 0
+  },
+  {
+    "id": 192,
+    "name": "Tatli Kucuk Yalancilar",
+    "english_name": "Pretty Little Liars",
+    "slug": "tatli-kucuk-yalancilar",
+    "active": 0
+  },
+  {
+    "id": 193,
+    "name": "Istanbullu Gelin",
+    "english_name": "Istanbul Bride",
+    "slug": "istanbullu-gelin",
+    "active": 0
+  },
+  {
+    "id": 194,
+    "name": "Bir Zamanlar Kibris",
+    "english_name": "Once Upon a Time in Cyprus",
+    "slug": "bir-zamanlar-kibris",
+    "active": 1
+  },
+  {
+    "id": 195,
+    "name": "Kis Gunesi",
+    "english_name": "Winter Sun",
+    "slug": "kis-gunesi",
+    "active": 0
+  },
+  {
+    "id": 196,
+    "name": "Dip",
+    "english_name": "The Bottom",
+    "slug": "dip",
+    "active": 0
+  },
+  {
+    "id": 197,
+    "name": "Kara Para Ask",
+    "english_name": "Black Money Love",
+    "slug": "kara-para-ask",
+    "active": 0
+  },
+  {
+    "id": 198,
+    "name": "Fazilet Hanim ve Kizlari",
+    "english_name": "Mrs. Fazilet and Her Daughters",
+    "slug": "fazilet-hanim-ve-kizlari",
+    "active": 0
+  },
+  {
+    "id": 199,
+    "name": "No 309",
+    "english_name": "Room 309",
+    "slug": "no-309",
+    "active": 0
+  },
+  {
+    "id": 200,
+    "name": "Kuzgun",
+    "english_name": "The Raven",
+    "slug": "kuzgun",
+    "active": 0
+  },
+  {
+    "id": 201,
+    "name": "Halka",
+    "english_name": "The Ring",
+    "slug": "halka",
+    "active": 0
+  },
+  {
+    "id": 202,
+    "name": "Siyah Beyaz Ask",
+    "english_name": "Black and White Love",
+    "slug": "siyah-beyaz-ask",
+    "active": 0
+  },
+  {
+    "id": 203,
+    "name": "Kagit Ev",
+    "english_name": "Paper House",
+    "slug": "kagit-ev",
+    "active": 0
+  },
+  {
+    "id": 204,
+    "name": "Mavera",
+    "english_name": "Mavera",
+    "slug": "mavera",
+    "active": 0
+  },
+  {
+    "id": 205,
+    "name": "Masumiyet",
+    "english_name": "Innocence",
+    "slug": "masumiyet",
+    "active": 0
+  },
+  {
+    "id": 206,
+    "name": "Seni Cok Bekledim",
+    "english_name": "I waited for you too",
+    "slug": "seni-cok-bekledim",
+    "active": 0
+  },
+  {
+    "id": 207,
+    "name": "Marasli",
+    "english_name": "Marasli",
+    "slug": "marasli",
+    "active": 0
+  },
+  {
+    "id": 208,
+    "name": "Akinci",
+    "english_name": "The Raider",
+    "slug": "akinci",
+    "active": 1
+  },
+  {
+    "id": 209,
+    "name": "Akrep",
+    "english_name": "The Scorpion",
+    "slug": "akrep",
+    "active": 1
+  },
+  {
+    "id": 210,
+    "name": "Sefirin Kizi",
+    "english_name": "The Ambassador's Daughter",
+    "slug": "sefirin-kizi",
+    "active": 0
+  },
+  {
+    "id": 211,
+    "name": "Hercai",
+    "english_name": "Broken Heart",
+    "slug": "hercai",
+    "active": 0
+  },
+  {
+    "id": 212,
+    "name": "Kirmizi Kamyon",
+    "english_name": "Red Truck",
+    "slug": "kirmizi-kamyon",
+    "active": 0
+  },
+  {
+    "id": 213,
+    "name": "Sol Yanim",
+    "english_name": "My Left Side",
+    "slug": "sol-yanim",
+    "active": 0
+  },
+  {
+    "id": 214,
+    "name": "Kefaret",
+    "english_name": "Atonement",
+    "slug": "kefaret",
+    "active": 1
+  },
+  {
+    "id": 215,
+    "name": "Alev Alev",
+    "english_name": "The Blazing",
+    "slug": "alev-alev",
+    "active": 0
+  },
+  {
+    "id": 216,
+    "name": "Gonul Dagi",
+    "english_name": "The Mountain of Hearts",
+    "slug": "gonul-dagi",
+    "active": 1
+  },
+  {
+    "id": 217,
+    "name": "Cocukluk",
+    "english_name": "Childhood",
+    "slug": "cocukluk",
+    "active": 0
+  },
+  {
+    "id": 218,
+    "name": "Uyanis Buyuk Selcuklu",
+    "english_name": "Awakening: Great Seljuks",
+    "slug": "uyanis-buyuk-selcuklu",
+    "active": 0
+  },
+  {
+    "id": 219,
+    "name": "Ariza",
+    "english_name": "Ariza",
+    "slug": "ariza",
+    "active": 0
+  },
+  {
+    "id": 220,
+    "name": "Iyi Gunde Kotu Gunde",
+    "english_name": "Good Day, Bad Day",
+    "slug": "iyi-gunde-kotu-gunde",
+    "active": 0
+  },
+  {
+    "id": 221,
+    "name": "Kirmizi Oda",
+    "english_name": "Red Room",
+    "slug": "kirmizi-oda",
+    "active": 1
+  },
+  {
+    "id": 222,
+    "name": "Maria ile Mustafa",
+    "english_name": "Maria and Mustafa",
+    "slug": "maria-ile-mustafa",
+    "active": 0
+  },
+  {
+    "id": 223,
+    "name": "Yeni Hayat",
+    "english_name": "New Life",
+    "slug": "yeni-hayat",
+    "active": 0
+  },
+  {
+    "id": 224,
+    "name": "Bay Yanlis",
+    "english_name": "Mr Wrong",
+    "slug": "bay-yanlis",
+    "active": 0
+  },
+  {
+    "id": 225,
+    "name": "Kuzey Yildizi",
+    "english_name": "North Star",
+    "slug": "kuzey-yildizi",
+    "active": 0
+  },
+  {
+    "id": 226,
+    "name": "Mucize Doktor",
+    "english_name": "Miracle Doctor",
+    "slug": "mucize-doktor",
+    "active": 0
+  },
+  {
+    "id": 227,
+    "name": "Zumruduanka",
+    "english_name": "Emerald Phoenix",
+    "slug": "zumruduanka",
+    "active": 0
+  },
+  {
+    "id": 228,
+    "name": "Payitaht Abdulhamid",
+    "english_name": "The Last Emperor",
+    "slug": "payitaht-abdulhamid",
+    "active": 0
+  },
+  {
+    "id": 229,
+    "name": "Menajerimi Ara",
+    "english_name": "Call My Agent",
+    "slug": "menajerimi-ara",
+    "active": 0
+  },
+  {
+    "id": 230,
+    "name": "Baraj",
+    "english_name": "Dam",
+    "slug": "baraj",
+    "active": 0
+  },
+  {
+    "id": 231,
+    "name": "Babil",
+    "english_name": "The Choice",
+    "slug": "babil",
+    "active": 0
+  },
+  {
+    "id": 232,
+    "name": "Dogdugun Ev Kaderindir",
+    "english_name": "Fateful House",
+    "slug": "dogdugun-ev-kaderindir",
+    "active": 0
+  },
+  {
+    "id": 233,
+    "name": "Cati Kati Ask",
+    "english_name": "Love On The Roof",
+    "slug": "cati-kati-ask",
+    "active": 0
+  },
+  {
+    "id": 234,
+    "name": "Gencligim Eyvah",
+    "english_name": "My Youth",
+    "slug": "gencligim-eyvah",
+    "active": 0
+  },
+  {
+    "id": 235,
+    "name": "Adi Mutluluk",
+    "english_name": "Name is Happiness",
+    "slug": "adi-mutluluk",
+    "active": 0
+  },
+  {
+    "id": 236,
+    "name": "Hayat Sarkisi",
+    "english_name": "Flames of Desire",
+    "slug": "hayat-sarkisi",
+    "active": 0
+  },
+  {
+    "id": 237,
+    "name": "Ask Yeniden",
+    "english_name": "Love Again",
+    "slug": "ask-yeniden",
+    "active": 0
+  },
+  {
+    "id": 238,
+    "name": "Benim Adim Melek",
+    "english_name": "My Name is Angel",
+    "slug": "benim-adim-melek",
+    "active": 1
+  },
+  {
+    "id": 239,
+    "name": "Yuksek Sosyete",
+    "english_name": "High Society",
+    "slug": "yuksek-sosyete",
+    "active": 0
+  },
+  {
+    "id": 240,
+    "name": "Sampiyon",
+    "english_name": "The Champion",
+    "slug": "sampiyon",
+    "active": 0
+  },
+  {
+    "id": 241,
+    "name": "Yemin",
+    "english_name": "The Promise",
+    "slug": "yemin",
+    "active": 1
+  },
+  {
+    "id": 242,
+    "name": "Erkenci Kus",
+    "english_name": "Early Bird",
+    "slug": "erkenci-kus",
+    "active": 0
+  },
+  {
+    "id": 243,
+    "name": "Fatih Harbiye",
+    "english_name": "In Between",
+    "slug": "fatih-harbiye",
+    "active": 0
+  },
+  {
+    "id": 244,
+    "name": "4N1K ilk ask",
+    "english_name": "First Love",
+    "slug": "4n1k-ilk-ask",
+    "active": 1
+  },
+  {
+    "id": 245,
+    "name": "Bizim Hikaye",
+    "english_name": "Our Story",
+    "slug": "bizim-hikaye",
+    "active": 0
+  },
+  {
+    "id": 246,
+    "name": "Seviyor Sevmiyor",
+    "english_name": "She loves, She doesn't",
+    "slug": "seviyor-sevmiyor",
+    "active": 0
+  },
+  {
+    "id": 247,
+    "name": "Zalim Istanbul",
+    "english_name": "Ruthless City",
+    "slug": "zalim-istanbul",
+    "active": 0
+  },
+  {
+    "id": 248,
+    "name": "Kuzey Guney",
+    "english_name": "North South",
+    "slug": "kuzey-guney",
+    "active": 0
+  },
+  {
+    "id": 249,
+    "name": "Kiraz Mevsimi",
+    "english_name": "Season Of Cherry",
+    "slug": "kiraz-mevsimi",
+    "active": 0
+  },
+  {
+    "id": 250,
+    "name": "Soz",
+    "english_name": "The Oath",
+    "slug": "soz",
+    "active": 0
+  },
+  {
+    "id": 251,
+    "name": "Iffet",
+    "english_name": "Iffet",
+    "slug": "iffet",
+    "active": 0
+  },
+  {
+    "id": 252,
+    "name": "Gecenin Kralicesi",
+    "english_name": "Queen Of The Night",
+    "slug": "gecenin-kralicesi",
+    "active": 0
+  },
+  {
+    "id": 253,
+    "name": "Meryem",
+    "english_name": "Meryem",
+    "slug": "meryem",
+    "active": 0
+  },
+  {
+    "id": 254,
+    "name": "Ramo",
+    "english_name": "Ramo",
+    "slug": "ramo",
+    "active": 0
+  },
+  {
+    "id": 255,
+    "name": "Gunesin Kizlari",
+    "english_name": "Sunshine Girls",
+    "slug": "gunesin-kizlari",
+    "active": 0
+  },
+  {
+    "id": 256,
+    "name": "Sen Anlat Karadeniz",
+    "english_name": "You Tell Black Sea",
+    "slug": "sen-anlat-karadeniz",
+    "active": 0
+  },
+  {
+    "id": 257,
+    "name": "Karadayi",
+    "english_name": "The Uncle in Black",
+    "slug": "karadayi",
+    "active": 0
+  },
+  {
+    "id": 258,
+    "name": "Kalp Atisi",
+    "english_name": "Heartbeat",
+    "slug": "kalp-atisi",
+    "active": 0
+  },
+  {
+    "id": 259,
+    "name": "Canevim",
+    "english_name": "Nest",
+    "slug": "canevim",
+    "active": 0
+  },
+  {
+    "id": 260,
+    "name": "Hekimoglu",
+    "english_name": "Hekimoglu",
+    "slug": "hekimoglu",
+    "active": 1
+  },
+  {
+    "id": 261,
+    "name": "Cennet",
+    "english_name": "Cennet",
+    "slug": "cennet",
+    "active": 0
+  },
+  {
+    "id": 262,
+    "name": "Kizim",
+    "english_name": "My Little Girl",
+    "slug": "kizim",
+    "active": 0
+  },
+  {
+    "id": 263,
+    "name": "Fatmagul",
+    "english_name": "What is Fatmagul's Fault",
+    "slug": "fatmagul",
+    "active": 0
+  },
+  {
+    "id": 264,
+    "name": "Afili Ask",
+    "english_name": "Love Trap",
+    "slug": "afili-ask",
+    "active": 0
+  },
+  {
+    "id": 265,
+    "name": "Gulperi",
+    "english_name": "Gulperi",
+    "slug": "gulperi",
+    "active": 0
+  },
+  {
+    "id": 266,
+    "name": "Inadina Ask",
+    "english_name": "Despite Love",
+    "slug": "inadina-ask",
+    "active": 0
+  },
+  {
+    "id": 267,
+    "name": "Aglama Anne",
+    "english_name": "Crying Mom",
+    "slug": "aglama-anne",
+    "active": 0
+  },
+  {
+    "id": 268,
+    "name": "Muhtesem Ikili",
+    "english_name": "The Magnificent Duo",
+    "slug": "muhtesem-ikili",
+    "active": 0
+  },
+  {
+    "id": 269,
+    "name": "Carpisma",
+    "english_name": "Crash",
+    "slug": "carpisma",
+    "active": 0
+  },
+  {
+    "id": 270,
+    "name": "Siyah Inci",
+    "english_name": "Black Pearl",
+    "slug": "siyah-inci",
+    "active": 0
+  },
+  {
+    "id": 271,
+    "name": "Kiralik Ask",
+    "english_name": "Love For Rent",
+    "slug": "kiralik-ask",
+    "active": 0
+  },
+  {
+    "id": 272,
+    "name": "Dolunay",
+    "english_name": "Full Moon",
+    "slug": "dolunay",
+    "active": 0
+  },
+  {
+    "id": 273,
+    "name": "Ask Laftan Anlamaz",
+    "english_name": "Love Does Not Understand Words",
+    "slug": "ask-laftan-anlamaz",
+    "active": 0
+  },
+  {
+    "id": 274,
+    "name": "Tatli Intikam",
+    "english_name": "Sweet Revenge",
+    "slug": "tatli-intikam",
+    "active": 0
+  },
+  {
+    "id": 275,
+    "name": "Coban Yildizi",
+    "english_name": "Shepherd Star",
+    "slug": "coban-yildizi",
+    "active": 0
+  },
+  {
+    "id": 276,
+    "name": "Hayatimin Aski",
+    "english_name": "Love of My Life",
+    "slug": "hayatimin-aski",
+    "active": 0
+  },
+  {
+    "id": 277,
+    "name": "Gel Dese Ask",
+    "english_name": "Gel Dese Ask",
+    "slug": "gel-dese-ask",
+    "active": 0
+  },
+  {
+    "id": 278,
+    "name": "Vatanim Sensin",
+    "english_name": "Wounded Love",
+    "slug": "vatanim-sensin",
+    "active": 0
+  },
+  {
+    "id": 279,
+    "name": "Vuslat",
+    "english_name": "Beloved",
+    "slug": "vuslat",
+    "active": 0
+  },
+  {
+    "id": 280,
+    "name": "Kara Sevda",
+    "english_name": "Endless Love",
+    "slug": "kara-sevda",
+    "active": 0
+  },
+  {
+    "id": 281,
+    "name": "Cesur Ve Guzel",
+    "english_name": "Brave and Beautiful",
+    "slug": "cesur-ve-guzel",
+    "active": 0
+  },
+  {
+    "id": 282,
+    "name": "Zemheri",
+    "english_name": "Love Storm",
+    "slug": "zemheri",
+    "active": 0
+  },
+  {
+    "id": 283,
+    "name": "Paramparca",
+    "english_name": "Broken Pieces",
+    "slug": "paramparca",
+    "active": 1
+  },
+  {
+    "id": 284,
+    "name": "Kardes Cocuklari",
+    "english_name": "Sisters",
+    "slug": "kardes-cocuklari",
+    "active": 0
+  },
+  {
+    "id": 285,
+    "name": "Cocuk",
+    "english_name": "The Kid",
+    "slug": "cocuk",
+    "active": 0
+  },
+  {
+    "id": 286,
+    "name": "Azize",
+    "english_name": "Azize",
+    "slug": "azize",
+    "active": 0
+  },
+  {
+    "id": 287,
+    "name": "Kimse Bilmez",
+    "english_name": "Nobody Knows",
+    "slug": "kimse-bilmez",
+    "active": 0
+  },
+  {
+    "id": 288,
+    "name": "Sevgili Gecmis",
+    "english_name": "Dear Past",
+    "slug": "sevgili-gecmis",
+    "active": 0
+  },
+  {
+    "id": 289,
+    "name": "Elimi Birakma",
+    "english_name": "Don't Let Go of My Hand",
+    "slug": "elimi-birakma",
+    "active": 0
+  },
+  {
+    "id": 290,
+    "name": "Ask Aglatir",
+    "english_name": "Love That Makes You Cry",
+    "slug": "ask-aglatir",
+    "active": 0
+  },
+  {
+    "id": 291,
+    "name": "Ferhat ile Sirin",
+    "english_name": "Ferhat and Sirin",
+    "slug": "ferhat-ile-sirin",
+    "active": 0
+  },
+  {
+    "id": 292,
+    "name": "Her Yerde Sen",
+    "english_name": "You Are Everywhere",
+    "slug": "her-yerde-sen",
+    "active": 0
+  },
+  {
+    "id": 293,
+    "name": "Benim Tatli Yalanim",
+    "english_name": "My Sweet Lie",
+    "slug": "benim-tatli-yalanim",
+    "active": 0
+  },
+  {
+    "id": 294,
+    "name": "Kursun",
+    "english_name": "The Bullet",
+    "slug": "kursun",
+    "active": 0
+  },
+  {
+    "id": 295,
+    "name": "Icerde",
+    "english_name": "Inside",
+    "slug": "icerde",
+    "active": 0
+  },
+  {
+    "id": 296,
+    "name": "Seref Sozu",
+    "english_name": "Word of Honor",
+    "slug": "seref-sozu",
+    "active": 0
+  },
+  {
+    "id": 297,
+    "name": "Meleklerin Aski",
+    "english_name": "Love Of Angels",
+    "slug": "meleklerin-aski",
+    "active": 0
+  },
+  {
+    "id": 298,
+    "name": "Hayat Mucizelere Gebe",
+    "english_name": "Life is Full of Miracles",
+    "slug": "hayat-mucizelere-gebe",
+    "active": 0
+  },
+  {
+    "id": 299,
+    "name": "Kordugum",
+    "english_name": "Intersection",
+    "slug": "kordugum",
+    "active": 0
+  },
+  {
+    "id": 300,
+    "name": "Benim Hala Umudum Var",
+    "english_name": "I Still Have Hope",
+    "slug": "benim-hala-umudum-var",
+    "active": 0
+  },
+  {
+    "id": 301,
+    "name": "Bana Sevmeyi Anlat",
+    "english_name": "Tell Me To Love",
+    "slug": "bana-sevmeyi-anlat",
+    "active": 0
+  },
+  {
+    "id": 302,
+    "name": "Sahane Damat",
+    "english_name": "Wonderful Groom",
+    "slug": "sahane-damat",
+    "active": 0
+  },
+  {
+    "id": 303,
+    "name": "Nefes Nefese",
+    "english_name": "Nefes Nefese",
+    "slug": "nefes-nefese",
+    "active": 0
+  },
+  {
+    "id": 304,
+    "name": "Darisi Basimiza",
+    "english_name": "The One of Us",
+    "slug": "darisi-basimiza",
+    "active": 0
+  },
+  {
+    "id": 305,
+    "name": "Mendirman Jaloliddin",
+    "english_name": "Mendirman Jaloliddin",
+    "slug": "mendirman-jaloliddin",
+    "active": 1
+  },
+  {
+    "id": 306,
+    "name": "Fi",
+    "english_name": "Fi",
+    "slug": "fi",
+    "active": 0
+  },
+  {
+    "id": 307,
+    "name": "Atesbocegi",
+    "english_name": "Firefly",
+    "slug": "atesbocegi",
+    "active": 0
+  },
+  {
+    "id": 308,
+    "name": "Vurgun",
+    "english_name": "Vurgun",
+    "slug": "vurgun",
+    "active": 0
+  },
+  {
+    "id": 309,
+    "name": "Bir Deli Ruzgar",
+    "english_name": "Crazy Wind",
+    "slug": "bir-deli-ruzgar",
+    "active": 0
+  },
+  {
+    "id": 310,
+    "name": "Mehmed Bir Cihan Fatihi",
+    "english_name": "Mehmed The Conqueror",
+    "slug": "mehmed-bir-cihan-fatihi",
+    "active": 0
+  },
+  {
+    "id": 311,
+    "name": "Leke",
+    "english_name": "Leke",
+    "slug": "leke",
+    "active": 0
+  },
+  {
+    "id": 312,
+    "name": "Hayat Sirlari",
+    "english_name": "The Secrets of Life",
+    "slug": "hayat-sirlari",
+    "active": 0
+  },
+  {
+    "id": 313,
+    "name": "Bir Umut Yeter",
+    "english_name": "One Hope is Enough",
+    "slug": "bir-umut-yeter",
+    "active": 0
+  },
+  {
+    "id": 314,
+    "name": "Gulizar",
+    "english_name": "Gulizar",
+    "slug": "gulizar",
+    "active": 0
+  },
+  {
+    "id": 315,
+    "name": "Dayan Yuregim",
+    "english_name": "Endure My Heart",
+    "slug": "dayan-yuregim",
+    "active": 0
+  },
+  {
+    "id": 316,
+    "name": "Keskin Bicak",
+    "english_name": "Sharp Knife",
+    "slug": "keskin-bicak",
+    "active": 0
+  },
+  {
+    "id": 317,
+    "name": "Hizmetciler",
+    "english_name": "Maids",
+    "slug": "hizmetciler",
+    "active": 0
+  },
+  {
+    "id": 318,
+    "name": "Kizlarim Icin",
+    "english_name": "For My Daughters",
+    "slug": "kizlarim-icin",
+    "active": 0
+  },
+  {
+    "id": 319,
+    "name": "Seref Meselesi",
+    "english_name": "Matter of Respect",
+    "slug": "seref-meselesi",
+    "active": 0
+  },
+  {
+    "id": 320,
+    "name": "Bir Aile Hikayesi",
+    "english_name": "A Family Story",
+    "slug": "bir-aile-hikayesi",
+    "active": 0
+  },
+  {
+    "id": 321,
+    "name": "Hukumsuz",
+    "english_name": "Worthless",
+    "slug": "hukumsuz",
+    "active": 1
+  },
+  {
+    "id": 322,
+    "name": "Bir Annenin Gunahi",
+    "english_name": "A Mother's Guilt",
+    "slug": "bir-annenin-gunahi",
+    "active": 0
+  },
+  {
+    "id": 323,
+    "name": "Ogretmen",
+    "english_name": "The Teacher",
+    "slug": "ogretmen",
+    "active": 0
+  },
+  {
+    "id": 324,
+    "name": "Guvercin",
+    "english_name": "The Pigeon",
+    "slug": "guvercin",
+    "active": 1
+  },
+  {
+    "id": 325,
+    "name": "Yarim Kalan Asklar",
+    "english_name": "Unfinished Love",
+    "slug": "yarim-kalan-asklar",
+    "active": 0
   }
 ]
