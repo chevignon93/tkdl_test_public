@@ -36,7 +36,7 @@
     "season_number": 1,
     "episode_number": 4,
     "extra_info_url": "https://tukipasti.com/t/7ilUeAdVtBNhavxIGRjj",
-    "master_m3u8": "https://cdn02.monaydi.com/data/3/92/RH7rgitlwk3u5Bekj3y01MoxdiRtbBeroge/RH7rgitlwk3u5Bekj3y01MoxdiRtbBeroge480.m3u8",
+    "master_m3u8": "#EXT-X-VERSION:6",
     "downloaded": 0
   },
   {
@@ -46,7 +46,7 @@
     "season_number": 1,
     "episode_number": 5,
     "extra_info_url": "https://tukipasti.com/t/vaDsfWRVd4BNBquVxZdB",
-    "master_m3u8": "https://cdn02.monaydi.com/data/2/8B/JCbUUZzRVKsY0uOq9jNj89vvLlKx9Koj8ZO/JCbUUZzRVKsY0uOq9jNj89vvLlKx9Koj8ZO480.m3u8",
+    "master_m3u8": "#EXT-X-VERSION:6",
     "downloaded": 0
   },
   {
@@ -305,8 +305,8 @@
     "abs_episode_number": 31,
     "season_number": 1,
     "episode_number": 31,
-    "extra_info_url": null,
-    "master_m3u8": null,
+    "extra_info_url": "https://tukipasti.com/t/ERmTEX5mfCbfWhnitoil",
+    "master_m3u8": "https://cdn61.vitunews.com/data/D/54/nL38QcLPPHKBsUQa6wzezfLuR0t6fwWPIYG/nL38QcLPPHKBsUQa6wzezfLuR0t6fwWPIYG720.m3u8",
     "downloaded": 0
   },
   {
@@ -315,8 +315,8 @@
     "abs_episode_number": 32,
     "season_number": 1,
     "episode_number": 32,
-    "extra_info_url": null,
-    "master_m3u8": null,
+    "extra_info_url": "https://tukipasti.com/t/Mo4PtbYb0kA3UUYSigDj",
+    "master_m3u8": "Mo4PtbYb0kA3UUYSigDj720.m3u8",
     "downloaded": 0
   },
   {
@@ -325,8 +325,8 @@
     "abs_episode_number": 33,
     "season_number": 1,
     "episode_number": 33,
-    "extra_info_url": null,
-    "master_m3u8": null,
+    "extra_info_url": "https://tukipasti.com/t/ec3s7NKOeowBQcdML5DZ",
+    "master_m3u8": "https://cdn61.vitunews.com/data/D/87/UIaQzBMRZNgIZ5WvkVOC4rqGnknKnQmhbW3/UIaQzBMRZNgIZ5WvkVOC4rqGnknKnQmhbW3720.m3u8",
     "downloaded": 0
   },
   {
@@ -335,8 +335,8 @@
     "abs_episode_number": 34,
     "season_number": 1,
     "episode_number": 34,
-    "extra_info_url": null,
-    "master_m3u8": null,
+    "extra_info_url": "https://tukipasti.com/t/bLEbl2dsnKBs8a6212Sl",
+    "master_m3u8": "bLEbl2dsnKBs8a6212Sl720.m3u8",
     "downloaded": 0
   },
   {
@@ -345,8 +345,8 @@
     "abs_episode_number": 35,
     "season_number": 1,
     "episode_number": 35,
-    "extra_info_url": null,
-    "master_m3u8": null,
+    "extra_info_url": "https://tukipasti.com/t/hnu4xSwGKE36zWH228vP",
+    "master_m3u8": "https://google.turbosplayer.com/video/78bfeea5-9755-4a88-9d8d-25463df254f6/master.html",
     "downloaded": 0
   },
   {
@@ -355,8 +355,8 @@
     "abs_episode_number": 36,
     "season_number": 1,
     "episode_number": 36,
-    "extra_info_url": null,
-    "master_m3u8": null,
+    "extra_info_url": "https://tukipasti.com/t/a0kxJZxBMbzpHq0Ifb1o",
+    "master_m3u8": "a0kxJZxBMbzpHq0Ifb1o720.m3u8",
     "downloaded": 0
   },
   {
@@ -365,8 +365,8 @@
     "abs_episode_number": 37,
     "season_number": 1,
     "episode_number": 37,
-    "extra_info_url": null,
-    "master_m3u8": null,
+    "extra_info_url": "https://tukipasti.com/t/NH0K6q7DxiP8f9JxTuKw",
+    "master_m3u8": "https://g55.turbosplayer.com/video/e1f2c820-b11c-497d-afd4-76cf3b8837db/master.html",
     "downloaded": 0
   },
   {
@@ -375,8 +375,8 @@
     "abs_episode_number": 38,
     "season_number": 1,
     "episode_number": 38,
-    "extra_info_url": null,
-    "master_m3u8": null,
+    "extra_info_url": "https://tukipasti.com/t/MSN28BWowbdDGAsRZRqZ",
+    "master_m3u8": "https://cdn61.vitunews.com/data/D/45/mAPWZmtukNncRB9IIApKCAzS6VY8W3TsduK/mAPWZmtukNncRB9IIApKCAzS6VY8W3TsduK720.m3u8",
     "downloaded": 0
   },
   {
@@ -385,8 +385,8 @@
     "abs_episode_number": 39,
     "season_number": 1,
     "episode_number": 39,
-    "extra_info_url": null,
-    "master_m3u8": null,
+    "extra_info_url": "https://tukipasti.com/t/dtNd5ibBIemyBlUT8IEg",
+    "master_m3u8": "dtNd5ibBIemyBlUT8IEg720.m3u8",
     "downloaded": 0
   },
   {
@@ -395,8 +395,8 @@
     "abs_episode_number": 40,
     "season_number": 2,
     "episode_number": 1,
-    "extra_info_url": null,
-    "master_m3u8": null,
+    "extra_info_url": "https://tukipasti.com/t/6jYqDA3SVgC4chxUT9A3",
+    "master_m3u8": "6jYqDA3SVgC4chxUT9A3720.m3u8",
     "downloaded": 0
   },
   {
@@ -405,8 +405,8 @@
     "abs_episode_number": 41,
     "season_number": 2,
     "episode_number": 2,
-    "extra_info_url": null,
-    "master_m3u8": null,
+    "extra_info_url": "https://tukipasti.com/t/7MCBJAS6541HtgmVh1r4",
+    "master_m3u8": "https://cdn55.sunseacf.com/data/9/3E/r1q0ih09CRFtxO7lEUky5jnB0J2dMOisjyz/r1q0ih09CRFtxO7lEUky5jnB0J2dMOisjyz720.m3u8",
     "downloaded": 0
   },
   {
@@ -415,8 +415,8 @@
     "abs_episode_number": 42,
     "season_number": 2,
     "episode_number": 3,
-    "extra_info_url": null,
-    "master_m3u8": null,
+    "extra_info_url": "https://tukipasti.com/t/XD9pJ1D9mDUtQgJzwotI",
+    "master_m3u8": "XD9pJ1D9mDUtQgJzwotI720.m3u8",
     "downloaded": 0
   },
   {
@@ -425,8 +425,8 @@
     "abs_episode_number": 43,
     "season_number": 2,
     "episode_number": 4,
-    "extra_info_url": null,
-    "master_m3u8": null,
+    "extra_info_url": "https://tukipasti.com/t/XYHKRRU6emP779IzKHlZ",
+    "master_m3u8": "https://cdn61.vitunews.com/data/C/EE/YaktcURFg9Uiu1wa8HDuyDNgD5gAQOXirgM/YaktcURFg9Uiu1wa8HDuyDNgD5gAQOXirgM720.m3u8",
     "downloaded": 0
   },
   {
@@ -435,8 +435,8 @@
     "abs_episode_number": 44,
     "season_number": 2,
     "episode_number": 5,
-    "extra_info_url": null,
-    "master_m3u8": null,
+    "extra_info_url": "https://tukipasti.com/t/2yCBS2WsqLHlJTD2IOHS",
+    "master_m3u8": "https://google.turbosplayer.com/video/ffa91ad4-9420-48f3-831d-6cad609814bf/master.html",
     "downloaded": 0
   },
   {
@@ -445,8 +445,8 @@
     "abs_episode_number": 45,
     "season_number": 2,
     "episode_number": 6,
-    "extra_info_url": null,
-    "master_m3u8": null,
+    "extra_info_url": "https://tukipasti.com/t/XZkyWYRhZ5ZEX1tL2hMD",
+    "master_m3u8": "https://cdn48.tuimuontai.com/data/7/9D/LaydE36Ca2y7JVfViStwFrabQj2wcEGHi1d/LaydE36Ca2y7JVfViStwFrabQj2wcEGHi1d720.m3u8",
     "downloaded": 0
   },
   {
@@ -455,8 +455,8 @@
     "abs_episode_number": 46,
     "season_number": 2,
     "episode_number": 7,
-    "extra_info_url": null,
-    "master_m3u8": null,
+    "extra_info_url": "https://tukipasti.com/t/nc0PI5Tt6Ei5msMUUazT",
+    "master_m3u8": "nc0PI5Tt6Ei5msMUUazT720.m3u8",
     "downloaded": 0
   },
   {
@@ -465,8 +465,8 @@
     "abs_episode_number": 47,
     "season_number": 2,
     "episode_number": 8,
-    "extra_info_url": null,
-    "master_m3u8": null,
+    "extra_info_url": "https://tukipasti.com/t/uaF2ge0o0fte0u09XwDE",
+    "master_m3u8": "uaF2ge0o0fte0u09XwDE720.m3u8",
     "downloaded": 0
   },
   {
@@ -475,8 +475,8 @@
     "abs_episode_number": 48,
     "season_number": 2,
     "episode_number": 9,
-    "extra_info_url": null,
-    "master_m3u8": null,
+    "extra_info_url": "https://tukipasti.com/t/2oFU7HnUqEpjFFzAlQrJ",
+    "master_m3u8": "2oFU7HnUqEpjFFzAlQrJ720.m3u8",
     "downloaded": 0
   },
   {
@@ -485,8 +485,8 @@
     "abs_episode_number": 49,
     "season_number": 2,
     "episode_number": 10,
-    "extra_info_url": null,
-    "master_m3u8": null,
+    "extra_info_url": "https://tukipasti.com/t/Wm3k3gDfa7B9rQlBVerR",
+    "master_m3u8": "https://google.turbosplayer.com/video/3aa94f27-085d-4f15-b571-930473d75d91/master.html",
     "downloaded": 0
   },
   {
@@ -495,8 +495,8 @@
     "abs_episode_number": 50,
     "season_number": 2,
     "episode_number": 11,
-    "extra_info_url": null,
-    "master_m3u8": null,
+    "extra_info_url": "https://tukipasti.com/t/0hLX6rdrVDnoF2Ss5uUc",
+    "master_m3u8": "https://g55.turbosplayer.com/video/5a25020c-b8f2-48cb-84cc-b4ba1cae8c4c/master.html",
     "downloaded": 0
   },
   {
@@ -505,8 +505,8 @@
     "abs_episode_number": 51,
     "season_number": 2,
     "episode_number": 12,
-    "extra_info_url": null,
-    "master_m3u8": null,
+    "extra_info_url": "https://tukipasti.com/t/r3uxkqSnGo4YPd77meYY",
+    "master_m3u8": "https://google.turbosplayer.com/video/2af632c1-33af-4c01-9d33-d8bd737a5221/master.html",
     "downloaded": 0
   },
   {
@@ -515,8 +515,8 @@
     "abs_episode_number": 52,
     "season_number": 2,
     "episode_number": 13,
-    "extra_info_url": null,
-    "master_m3u8": null,
+    "extra_info_url": "https://tukipasti.com/t/a5rqClseyJol5TBx9Hx9",
+    "master_m3u8": "a5rqClseyJol5TBx9Hx9720.m3u8",
     "downloaded": 0
   },
   {
@@ -525,8 +525,8 @@
     "abs_episode_number": 1,
     "season_number": 1,
     "episode_number": 1,
-    "extra_info_url": null,
-    "master_m3u8": null,
+    "extra_info_url": "https://tukipasti.com/t/qFANokGWXpBsBFDNGvq9",
+    "master_m3u8": "https://cdn76.chanchae.com/data/E/94/zTbCgqb2woAHD92R9OTt9NhjWdDcOaINV9c/zTbCgqb2woAHD92R9OTt9NhjWdDcOaINV9c720.m3u8",
     "downloaded": 0
   },
   {
@@ -535,8 +535,8 @@
     "abs_episode_number": 2,
     "season_number": 1,
     "episode_number": 2,
-    "extra_info_url": null,
-    "master_m3u8": null,
+    "extra_info_url": "https://tukipasti.com/t/OO9fu7VIsvVpRhMEgJqx",
+    "master_m3u8": "https://cdn77.cheaboln.com/data/5/23/gY0CVL5i8A36k5wROlzZJ3v0WGMAUJg7rFN/gY0CVL5i8A36k5wROlzZJ3v0WGMAUJg7rFN720.m3u8",
     "downloaded": 0
   },
   {
@@ -545,8 +545,8 @@
     "abs_episode_number": 3,
     "season_number": 1,
     "episode_number": 3,
-    "extra_info_url": null,
-    "master_m3u8": null,
+    "extra_info_url": "https://tukipasti.com/t/9WeAIiA5EZliNbWFyrKz",
+    "master_m3u8": "https://cdn77.cheaboln.com/data/7/EC/UyznEa9k0nuLlZniPsVBKSJe9gdizzLAK5w/UyznEa9k0nuLlZniPsVBKSJe9gdizzLAK5w720.m3u8",
     "downloaded": 0
   },
   {
@@ -555,8 +555,8 @@
     "abs_episode_number": 4,
     "season_number": 1,
     "episode_number": 4,
-    "extra_info_url": null,
-    "master_m3u8": null,
+    "extra_info_url": "https://tukipasti.com/t/dOZg58hkyfVc8dBuPuNY",
+    "master_m3u8": "https://cdn77.cheaboln.com/data/6/64/K1nxZjf9Drw5cih6akgQVfop6AVptjLne8Z/K1nxZjf9Drw5cih6akgQVfop6AVptjLne8Z720.m3u8",
     "downloaded": 0
   },
   {
@@ -565,8 +565,8 @@
     "abs_episode_number": 5,
     "season_number": 1,
     "episode_number": 5,
-    "extra_info_url": null,
-    "master_m3u8": null,
+    "extra_info_url": "https://tukipasti.com/t/QMYAGNA0TX3HFPfpGvdX",
+    "master_m3u8": "https://g30.turbosplayer.com/video/79acfc74-85ff-4876-ad57-4cb6705eb8b4/master.html",
     "downloaded": 0
   },
   {
@@ -575,8 +575,8 @@
     "abs_episode_number": 6,
     "season_number": 1,
     "episode_number": 6,
-    "extra_info_url": null,
-    "master_m3u8": null,
+    "extra_info_url": "https://tukipasti.com/t/FDJWbwQYbRfiAmx16f5k",
+    "master_m3u8": "FDJWbwQYbRfiAmx16f5k720.m3u8",
     "downloaded": 0
   },
   {
@@ -585,8 +585,8 @@
     "abs_episode_number": 7,
     "season_number": 1,
     "episode_number": 7,
-    "extra_info_url": null,
-    "master_m3u8": null,
+    "extra_info_url": "https://tukipasti.com/t/bjmrDmPGccwXDXnFBVb6",
+    "master_m3u8": "https://cdn75.dynumiong.com/data/9/72/IuJiPzyxD6Np0JEpG8jgltn1ZunpB6Xd1IO/IuJiPzyxD6Np0JEpG8jgltn1ZunpB6Xd1IO720.m3u8",
     "downloaded": 0
   },
   {
@@ -595,8 +595,8 @@
     "abs_episode_number": 8,
     "season_number": 1,
     "episode_number": 8,
-    "extra_info_url": null,
-    "master_m3u8": null,
+    "extra_info_url": "https://tukipasti.com/t/69HBkQLUQx7mZSgzPkdz",
+    "master_m3u8": "https://cdn77.cheaboln.com/data/7/46/sEwI2VXbtaMvHlefaTNQZNMS5GDPRaMlUkW/sEwI2VXbtaMvHlefaTNQZNMS5GDPRaMlUkW720.m3u8",
     "downloaded": 0
   },
   {
@@ -605,8 +605,8 @@
     "abs_episode_number": 9,
     "season_number": 1,
     "episode_number": 9,
-    "extra_info_url": null,
-    "master_m3u8": null,
+    "extra_info_url": "https://tukipasti.com/t/4oDRUnTKsIJ1UmIP0TBB",
+    "master_m3u8": "https://g8.turbosplayer.com/video/e2e77881-8296-4aa3-b323-89af81d47fb3/master.html",
     "downloaded": 0
   },
   {
@@ -615,8 +615,8 @@
     "abs_episode_number": 10,
     "season_number": 1,
     "episode_number": 10,
-    "extra_info_url": null,
-    "master_m3u8": null,
+    "extra_info_url": "https://tukipasti.com/t/uYYWGVWTCPjgLAY77TI5",
+    "master_m3u8": "https://cdn75.dynumiong.com/data/8/07/6d54umrbdq383pbuNNwJmEZeWUSzEWodCCY/6d54umrbdq383pbuNNwJmEZeWUSzEWodCCY720.m3u8",
     "downloaded": 0
   },
   {
@@ -625,8 +625,8 @@
     "abs_episode_number": 11,
     "season_number": 1,
     "episode_number": 11,
-    "extra_info_url": null,
-    "master_m3u8": null,
+    "extra_info_url": "https://tukipasti.com/t/oUEtYxFV3lQOyXLr2XCa",
+    "master_m3u8": "https://g30.turbosplayer.com/video/6e655543-0e12-424e-bd2c-d67192ba71a9/master.html",
     "downloaded": 0
   },
   {
@@ -635,8 +635,8 @@
     "abs_episode_number": 12,
     "season_number": 1,
     "episode_number": 12,
-    "extra_info_url": null,
-    "master_m3u8": null,
+    "extra_info_url": "https://tukipasti.com/t/qqIKSkDPLsdWJG6TjMLo",
+    "master_m3u8": "https://g8.turbosplayer.com/video/6b8d7263-16e3-4824-aaa4-0476152055b0/master.html",
     "downloaded": 0
   },
   {
@@ -645,8 +645,8 @@
     "abs_episode_number": 13,
     "season_number": 1,
     "episode_number": 13,
-    "extra_info_url": null,
-    "master_m3u8": null,
+    "extra_info_url": "https://tukipasti.com/t/fDn9h7dwjubmGU9iiA9H",
+    "master_m3u8": "fDn9h7dwjubmGU9iiA9H720.m3u8",
     "downloaded": 0
   },
   {
@@ -655,8 +655,8 @@
     "abs_episode_number": 14,
     "season_number": 1,
     "episode_number": 14,
-    "extra_info_url": null,
-    "master_m3u8": null,
+    "extra_info_url": "https://tukipasti.com/t/lOjpR8blMDH0CZkzMUbU",
+    "master_m3u8": "https://g8.turbosplayer.com/video/d2ac3561-4837-4af8-8bc8-659ff882425a/master.html",
     "downloaded": 0
   },
   {
@@ -665,8 +665,8 @@
     "abs_episode_number": 15,
     "season_number": 1,
     "episode_number": 15,
-    "extra_info_url": null,
-    "master_m3u8": null,
+    "extra_info_url": "https://tukipasti.com/t/G1IkKZKahjw0xzMFcnAQ",
+    "master_m3u8": "G1IkKZKahjw0xzMFcnAQ720.m3u8",
     "downloaded": 0
   },
   {
@@ -675,8 +675,8 @@
     "abs_episode_number": 16,
     "season_number": 1,
     "episode_number": 16,
-    "extra_info_url": null,
-    "master_m3u8": null,
+    "extra_info_url": "https://tukipasti.com/t/SMA9cfFEz9l5vUIYGacz",
+    "master_m3u8": "https://g30.turbosplayer.com/video/e69dd72d-e69a-443e-8426-f110149132e9/master.html",
     "downloaded": 0
   },
   {
@@ -685,8 +685,8 @@
     "abs_episode_number": 17,
     "season_number": 1,
     "episode_number": 17,
-    "extra_info_url": null,
-    "master_m3u8": null,
+    "extra_info_url": "https://tukipasti.com/t/w0q5qKE9hnPhglJ0IQYy",
+    "master_m3u8": "https://g30.turbosplayer.com/video/54398dce-b906-47ca-88ef-e5bb0de35895/master.html",
     "downloaded": 0
   },
   {
@@ -695,8 +695,8 @@
     "abs_episode_number": 18,
     "season_number": 1,
     "episode_number": 18,
-    "extra_info_url": null,
-    "master_m3u8": null,
+    "extra_info_url": "https://tukipasti.com/t/lMqpsfNVjXbzsEOdWoRt",
+    "master_m3u8": "https://cdn40.dominofile.com/data/6/89/HqrhWzK5pE4DlhAmuaZbTl7FqTYRzAajIvX/HqrhWzK5pE4DlhAmuaZbTl7FqTYRzAajIvX720.m3u8",
     "downloaded": 0
   },
   {
@@ -705,8 +705,8 @@
     "abs_episode_number": 19,
     "season_number": 1,
     "episode_number": 19,
-    "extra_info_url": null,
-    "master_m3u8": null,
+    "extra_info_url": "https://tukipasti.com/t/N5C9hou9LNuORKLWq6IC",
+    "master_m3u8": "https://cdn77.cheaboln.com/data/4/96/WYHTcJNmuEfVSod2H7HKOiJQOnyC640Yzgp/WYHTcJNmuEfVSod2H7HKOiJQOnyC640Yzgp480.m3u8",
     "downloaded": 0
   },
   {
@@ -715,8 +715,8 @@
     "abs_episode_number": 20,
     "season_number": 1,
     "episode_number": 20,
-    "extra_info_url": null,
-    "master_m3u8": null,
+    "extra_info_url": "https://tukipasti.com/t/05lhcAU4G0zZPrP3fS7u",
+    "master_m3u8": "https://cdn33.magizfile.com/data/C/9E/O3oaAaL2ky01zD6IAlnvaELP9t4CYHIGlHB/O3oaAaL2ky01zD6IAlnvaELP9t4CYHIGlHB720.m3u8",
     "downloaded": 0
   },
   {
@@ -725,8 +725,8 @@
     "abs_episode_number": 21,
     "season_number": 1,
     "episode_number": 21,
-    "extra_info_url": null,
-    "master_m3u8": null,
+    "extra_info_url": "https://tukipasti.com/t/8Z8I9Ed70rfAaEoQG90y",
+    "master_m3u8": "https://g43.turbosplayer.com/video/247e2ba0-5bcb-46b7-ac0c-7037f81c2e1e/master.html",
     "downloaded": 0
   },
   {
@@ -735,8 +735,8 @@
     "abs_episode_number": 22,
     "season_number": 1,
     "episode_number": 22,
-    "extra_info_url": null,
-    "master_m3u8": null,
+    "extra_info_url": "https://tukipasti.com/t/go4QNA4GQgCG5gjNhpaz",
+    "master_m3u8": "https://g43.turbosplayer.com/video/7c454f42-8ad5-4be7-810f-d5b76fd39aa9/master.html",
     "downloaded": 0
   },
   {
@@ -745,8 +745,8 @@
     "abs_episode_number": 23,
     "season_number": 1,
     "episode_number": 23,
-    "extra_info_url": null,
-    "master_m3u8": null,
+    "extra_info_url": "https://tukipasti.com/t/XiJ5AZVoEa3vCngJnGDw",
+    "master_m3u8": "XiJ5AZVoEa3vCngJnGDw720.m3u8",
     "downloaded": 0
   },
   {
@@ -755,8 +755,8 @@
     "abs_episode_number": 24,
     "season_number": 1,
     "episode_number": 24,
-    "extra_info_url": null,
-    "master_m3u8": null,
+    "extra_info_url": "https://tukipasti.com/t/r70ulh0roqx6NDX92QCa",
+    "master_m3u8": "r70ulh0roqx6NDX92QCa720.m3u8",
     "downloaded": 0
   },
   {
@@ -765,8 +765,8 @@
     "abs_episode_number": 25,
     "season_number": 1,
     "episode_number": 25,
-    "extra_info_url": null,
-    "master_m3u8": null,
+    "extra_info_url": "https://tukipasti.com/t/Utgp0yYMn0rgapDFQx6A",
+    "master_m3u8": "https://cdn33.magizfile.com/data/C/5A/ZJdQzN8DAFuzNP3bnLUp4M9XCOyFLYazuPt/ZJdQzN8DAFuzNP3bnLUp4M9XCOyFLYazuPt720.m3u8",
     "downloaded": 0
   },
   {
@@ -775,8 +775,8 @@
     "abs_episode_number": 26,
     "season_number": 1,
     "episode_number": 26,
-    "extra_info_url": null,
-    "master_m3u8": null,
+    "extra_info_url": "https://tukipasti.com/t/W8JQ7KbVyR7TDmN06GtX",
+    "master_m3u8": "https://cdn56.batcothit.com/data/8/3E/pCWEJTRQEJEaaZkXT6OrhdrJEhBauJo8hRe/pCWEJTRQEJEaaZkXT6OrhdrJEhBauJo8hRe720.m3u8",
     "downloaded": 0
   },
   {
@@ -785,8 +785,8 @@
     "abs_episode_number": 27,
     "season_number": 1,
     "episode_number": 27,
-    "extra_info_url": null,
-    "master_m3u8": null,
+    "extra_info_url": "https://tukipasti.com/t/mgV3XOc44PWMcUOZhwwE",
+    "master_m3u8": "https://g24.turbosplayer.com/video/bc9e92cd-a2af-45e1-bcae-caae825ebdb7/master.html",
     "downloaded": 0
   },
   {
@@ -795,8 +795,8 @@
     "abs_episode_number": 28,
     "season_number": 1,
     "episode_number": 28,
-    "extra_info_url": null,
-    "master_m3u8": null,
+    "extra_info_url": "https://tukipasti.com/t/4idk9NHgSSvwg8eTFF9z",
+    "master_m3u8": "https://cdn66.uptosharez.com/data/F/C4/9qEM8ViUjvtgMkD7YzNMeIxghq9JxVOpfVZ/9qEM8ViUjvtgMkD7YzNMeIxghq9JxVOpfVZ480.m3u8",
     "downloaded": 0
   },
   {
